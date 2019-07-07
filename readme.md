@@ -18,4 +18,4 @@ Running on http://localhost:8080
 
 #Test
 >$ curl -i localhost:49160
-navigate to localhost:49160 on your browser
+*navigate to localhost:49160 on your browser
