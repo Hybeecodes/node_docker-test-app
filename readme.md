@@ -7,15 +7,15 @@
 ## Run the image
 > $ docker run -p 49160:8080 -d <your username>/node-web-app
 
-# Get container ID
+## Get container ID
 >$ docker ps
 
-# Print app output
+## Print app output
 >$ docker logs <container id>
 
-# Example
+## Example
 Running on http://localhost:8080
 
-#Test
+## Test
 >$ curl -i localhost:49160
 *navigate to localhost:49160 on your browser
